@@ -1,0 +1,51 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.sw?
+
+# NPM package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Docker files
+
+docker-compose.yml
+
+# GitHub specific files
+*.github/
+
+# Any other specific files or directories to ignore
